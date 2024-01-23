@@ -3,7 +3,7 @@ let intentos = 1;
 let intentosTotales = 1;
 let numeroSecreto = 0;
 let listaNumeroSecreto = [];
-let numeroMaximo = 3;
+let numeroMaximo = 10;
 
 //funciones
 function estadoInicial() {
